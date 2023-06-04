@@ -1,4 +1,4 @@
-Jak zainstalować zależności i uruchomić aplikację:
+# Jak zainstalować zależności i uruchomić aplikację:
 
 1. Zainstaluj python, pylint, curl.
 2. Zainstalować pip i flask.
