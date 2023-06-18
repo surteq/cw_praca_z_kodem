@@ -16,3 +16,4 @@ README jest miejscem, gdzie twórcy projektu mogą przekazać informacje o proje
 README może służyć jako podstawowa forma dokumentacji projektu. Może zawierać instrukcje instalacji, konfiguracji i uruchamiania. Może także opisywać zależności, wymagania systemowe oraz znane problemy i sposoby ich rozwiązania. <br />
 README jest to pierwsza rzecz, którą użytkownicy zobaczą po wejściu w repozytorium. Dobrze napisany README może przyciągnąć uwagę innych użytkowników i zachęcić ich do skorzystania z projektu. <br />
 Podsumowując README jest ważnym elementem każdego projektu, który pomaga w komunikacji, dokumentacji i zareklamowaniu projektu. Dobrze napisane może znacznie ułatwić pracę z projektem.
+
